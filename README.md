@@ -9,4 +9,5 @@
 #9️ Hollow Diamond  
 #10 Palindromic Number Pyramid  
 #1️1️ Number Diamond  
-#1️2️ Upper Right-Aligned Number Triangle 
+#1️2️ Upper Right-Aligned Number Triangle      
+#13 Hourglass Number Pattern
