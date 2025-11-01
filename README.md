@@ -11,3 +11,4 @@
 #1️1️ Number Diamond  
 #1️2️ Upper Right-Aligned Number Triangle      
 #13 Hourglass Number Pattern
+#14 Zigzag pattern
