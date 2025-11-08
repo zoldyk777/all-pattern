@@ -13,3 +13,4 @@
 #13 Hourglass Number Pattern    
 #14 Zigzag pattern   
 #15 Butterfly Pattern
+#16 Hollow Pyramid Pattern
