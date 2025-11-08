@@ -12,5 +12,5 @@
 #1️2️ Upper Right-Aligned Number Triangle      
 #13 Hourglass Number Pattern    
 #14 Zigzag pattern   
-#15 Butterfly Pattern
+#15 Butterfly Pattern  
 #16 Hollow Pyramid Pattern
